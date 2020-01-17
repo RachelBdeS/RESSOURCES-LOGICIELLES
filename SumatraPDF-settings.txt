@@ -1,0 +1,317 @@
+﻿# For documentation, see http://www.sumatrapdfreader.org/settings3.2.html
+
+MainWindowBackground = #80fff200
+EscToExit = false
+ReuseInstance = false
+UseSysColors = false
+RestoreSession = true
+
+FixedPageUI [
+	TextColor = #000000
+	BackgroundColor = #ffffff
+	SelectionColor = #f5fc0c
+	WindowMargin = 2 4 2 4
+	PageSpacing = 4 4
+]
+EbookUI [
+	FontName = Arial
+	FontSize = 12.5
+	TextColor = #5f4b32
+	BackgroundColor = #fbf0d9
+	UseFixedPageUI = false
+]
+ComicBookUI [
+	WindowMargin = 0 0 0 0
+	PageSpacing = 4 4
+	CbxMangaMode = false
+]
+ChmUI [
+	UseFixedPageUI = false
+]
+ExternalViewers [
+]
+ShowMenubar = true
+ReloadModifiedDocuments = true
+FullPathInTitle = false
+ZoomLevels = 8.33 12.5 18 25 33.33 50 66.67 75 100 125 150 200 300 400 600 800 1000 1200 1600 2000 2400 3200 4800 6400
+ZoomIncrement = 0
+
+PrinterDefaults [
+	PrintScale = shrink
+]
+ForwardSearch [
+	HighlightOffset = 0
+	HighlightWidth = 15
+	HighlightColor = #6581ff
+	HighlightPermanent = false
+]
+CustomScreenDPI = 0
+
+RememberStatePerDocument = false
+UiLanguage = fr
+ShowToolbar = true
+ShowFavorites = true
+AssociateSilently = false
+CheckForUpdates = true
+RememberOpenedFiles = true
+EnableTeXEnhancements = false
+DefaultDisplayMode = facing
+DefaultZoom = fit width
+WindowState = 2
+WindowPos = 496 -8 854 1017
+ShowToc = false
+SidebarDx = 420
+TocDy = 0
+ShowStartPage = true
+UseTabs = true
+
+FileStates [
+	[
+		FilePath = C:\Users\CRM\Google Drive\GitHub\TP_et_ECF_BDD\Cours\INFO3_Demarche_de_construction.pdf
+		Favorites [
+			[
+				Name = BDD_INFO3
+				PageNo = 1
+			]
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 1
+		UseDefaultState = true
+	]
+	[
+		FilePath = C:\Users\CRM\Google Drive\GitHub\TP_et_ECF_BDD\Cours\INFO4_Normalisation.pdf
+		Favorites [
+			[
+				Name = BDD_INFO4
+				PageNo = 1
+			]
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 1
+		UseDefaultState = true
+	]
+	[
+		FilePath = C:\Users\CRM\Google Drive\GitHub\TP_et_ECF_BDD\Cours\INFO5_modele_relationnel (plus tard).pdf
+		Favorites [
+			[
+				Name = BDD_INFO5
+				PageNo = 1
+			]
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 1
+		UseDefaultState = true
+	]
+	[
+		FilePath = C:\Users\CRM\Google Drive\GitHub\TP_Cobol\Cours\Sylis Formation - COBOL vs II en batch.pdf
+		Favorites [
+			[
+				Name = COBOL II
+				PageNo = 85
+			]
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 4
+		UseDefaultState = true
+	]
+	[
+		FilePath = C:\Users\CRM\Google Drive\GitHub\TP_Cobol\Cours\Cobol Debutant - Cours et exercies.pdf
+		Favorites [
+			[
+				Name = COBOL
+				PageNo = 57
+			]
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 3
+		UseDefaultState = true
+	]
+	[
+		FilePath = C:\Users\CRM\Google Drive\GitHub\TP_et_ECF_BDD\TP1\TP1 Enonce.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 7
+		UseDefaultState = true
+	]
+	[
+		FilePath = C:\Users\CRM\Google Drive\GitHub\TP_et_ECF_BDD\Cours\INFO2_Modèle_Entité_Association.pdf
+		Favorites [
+			[
+				Name = BDD_INFO2
+				PageNo = 3
+			]
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 7
+		UseDefaultState = true
+	]
+	[
+		FilePath = C:\Users\CRM\Google Drive\GitHub\TP_et_ECF_BDD\Cours\INFO1_Conception BD de Cyril BRUO.pdf
+		Favorites [
+			[
+				Name = BDD_INFO1
+				PageNo = 3
+			]
+		]
+		IsPinned = true
+		IsMissing = false
+		OpenCount = 7
+		UseDefaultState = true
+	]
+	[
+		FilePath = C:\Users\CRM\Documents\GitHub\TP_Cobol\Mainframe_boite_a_outils_1.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 1
+		UseDefaultState = true
+	]
+	[
+		FilePath = C:\Users\CRM\Documents\GitHub\TP_Cobol\Cours_COBOL_3.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 1
+		UseDefaultState = true
+	]
+	[
+		FilePath = C:\Users\CRM\Documents\GitHub\Cobol_Initiation\Scans Docs COBOL\Sylis Formation - COBOL vs II en batch.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 1
+		UseDefaultState = true
+	]
+	[
+		FilePath = C:\Users\CRM\Google Drive\GitHub\TP_et_ECF_BDD\TP2\TP2_LoCamion_Synthese_Merise_Franck.pdf
+		Favorites [
+			[
+				Name = BDD_TP2
+				PageNo = 1
+			]
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = true
+	]
+	[
+		FilePath = C:\Users\CRM\Google Drive\GitHub\TP_et_ECF_BDD\TP1\TP1_Entitié_Association_Franck.pdf
+		Favorites [
+			[
+				Name = BDD_TP1
+				PageNo = 1
+			]
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = true
+	]
+	[
+		FilePath = C:\Users\CRM\Documents\GitHub\TP_Cobol\cours.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = true
+	]
+	[
+		FilePath = C:\Users\CRM\Documents\GitHub\TPs_et_ECFs_CSharp\UML Objet\1.Cours Concepts_objet.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = true
+	]
+	[
+		FilePath = C:\Users\CRM\Google Drive\GitHub\TP_et_ECF_BDD\TP2_LoCamion_Synthese_Merise_Franck.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = true
+	]
+	[
+		FilePath = C:\Users\CRM\Google Drive\GitHub\TP_et_ECF_BDD\TP1_Entitié_Association_Franck.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = true
+	]
+]
+SessionData [
+	[
+		TabStates [
+			[
+				FilePath = C:\Users\CRM\Google Drive\GitHub\TP_et_ECF_BDD\Cours\INFO1_Conception BD de Cyril BRUO.pdf
+				DisplayMode = continuous
+				PageNo = 13
+				Zoom = fit width
+				Rotation = 0
+				ScrollPos = -1 626
+				ShowToc = false
+			]
+			[
+				FilePath = C:\Users\CRM\Google Drive\GitHub\TP_et_ECF_BDD\Cours\INFO2_Modèle_Entité_Association.pdf
+				DisplayMode = single page
+				PageNo = 3
+				Zoom = fit width
+				Rotation = 0
+				ScrollPos = -1 33
+				ShowToc = false
+			]
+			[
+				FilePath = C:\Users\CRM\Google Drive\GitHub\TP_et_ECF_BDD\TP1\TP1 Enonce.pdf
+				DisplayMode = single page
+				PageNo = 7
+				Zoom = 125
+				Rotation = 0
+				ScrollPos = -1 27
+				ShowToc = false
+			]
+			[
+				FilePath = C:\Users\CRM\Google Drive\GitHub\TP_Cobol\Cours\Cobol Debutant - Cours et exercies.pdf
+				DisplayMode = single page
+				PageNo = 48
+				Zoom = fit width
+				Rotation = 0
+				ScrollPos = -1 13
+				ShowToc = false
+			]
+			[
+				FilePath = C:\Users\CRM\Google Drive\GitHub\TP_Cobol\Cours\Sylis Formation - COBOL vs II en batch.pdf
+				DisplayMode = facing
+				PageNo = 247
+				Zoom = fit width
+				Rotation = 0
+				ScrollPos = -1 -1
+				ShowToc = false
+			]
+		]
+		TabIndex = 4
+		WindowState = 2
+		WindowPos = 496 -8 854 1017
+		SidebarDx = 420
+	]
+]
+TimeOfLastUpdateCheck = 0 0
+OpenCountWeek = 465
+
+# Settings after this line have not been recognized by the current version
